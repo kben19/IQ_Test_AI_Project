@@ -2,7 +2,7 @@
 by Kelvin Benzali
 
 # Description
-This project is about developing a program of artificial intelligence that takes input of IQ test and solve the problems. The purposes of this project is to make a program that pass the minimum score of IQ test. In other words, the IQ tests can be solved by an artificial intelligence which can raise a question of the efficiency of the IQ test itself and the development progress in artificial intelligence field.
+This project is about developing a program of artificial intelligence that takes an input of IQ test and solves the problems. The purposes of this project are to make a program that passes the minimum score of IQ test. In other words, the IQ tests can be solved by an artificial intelligence which can raise a question of the efficiency of the IQ test itself and the development progress in the artificial intelligence field.
 
 # Functionalities
 -	The program understand the meaning of the questions
